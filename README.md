@@ -1,0 +1,2 @@
+# Sprawozdanie
+Krótki opis repozytorium.
